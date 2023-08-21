@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **transportation technologies**
 
-- 📫 How to reach me **alex.harmaty@outlook.com**
+- 📫 How to reach me **alex.harmaty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
