@@ -1,4 +1,6 @@
-![tenor](https://github.com/alexander-harmaty/alexander-harmaty/assets/92049896/ceb6eb61-14a4-49dd-890d-a4dc5228fb17)
+<p align="center">
+  <img src="https://github.com/alexander-harmaty/alexander-harmaty/assets/92049896/ceb6eb61-14a4-49dd-890d-a4dc5228fb17">
+</p>
 
 <h1 align="center">My name is Alexander</h1>
 <h3 align="center">I am a passionate full-stack developer studying Artificial Intelligence!</h3>
