@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">My name is Alex!</h1>
-<h3 align="center">I am a passionate full-stack developer studying Artificial Intelligence!</h3>
+<h3 align="center">I am a passionate full-stack developer studying artificial intelligence!</h3>
 
 - 🔭 I’m currently working on **my portfolio website**
 
