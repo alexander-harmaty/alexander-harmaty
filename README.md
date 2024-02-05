@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **artificial intelligence.**
+- 🌱 I’m currently learning **artificial intelligence**
 
-- 👯 I’m looking to collaborate on **public transit and mapping programs.**
+- 👯 I’m looking to collaborate on **public transit and mapping programs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexander-harmaty?tab=repositories](https://github.com/alexander-harmaty?tab=repositories)
 
