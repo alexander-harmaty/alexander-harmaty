@@ -3,17 +3,15 @@
 </p>
 
 <h1 align="center">My name is Alex!</h1>
-<h3 align="center">I am a passionate full-stack developer studying artificial intelligence!</h3>
+<h3 align="center">I am a passionate full-stack developer studying for my Masters in Computer Science!</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **my portfolio website.**
 
-- 🌱 I’m currently learning **artificial intelligence**
+- 🌱 I’m currently learning **artificial intelligence.**
 
-- 👯 I’m looking to collaborate on **public transit and mapping programs**
+- 👯 I’m looking to collaborate on **mapping web apps.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexander-harmaty?tab=repositories](https://github.com/alexander-harmaty?tab=repositories)
-
-- 💬 Ask me about **urban planning**
+- 💬 Ask me about **urban planning!**
 
 - 📫 How to reach me **alex.harmaty@gmail.com**
 
