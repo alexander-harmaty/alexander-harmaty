@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio website.**
 
-- 🌱 I’m currently learning **artificial intelligence.**
+- 🌱 I’m currently learning **artificial intelligence!**
 
 - 👯 I’m looking to collaborate on **mapping web apps.**
 
