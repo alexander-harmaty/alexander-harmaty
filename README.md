@@ -5,13 +5,13 @@
 <h1 align="center">My name is Alex!</h1>
 <h3 align="center">I am a passionate full-stack developer studying for my Masters in Computer Science!</h3>
 
-- 🔭 I’m currently working on **my portfolio website.**
+- 🔭 I’m currently working on **websites for my local community.**
 
 - 🌱 I’m currently learning **artificial intelligence!**
 
 - 👯 I’m looking to collaborate on **mapping web apps.**
 
-- 💬 Ask me about **urban planning!**
+- 💬 Ask me about **multimodal machine learning**
 
 - 📫 How to reach me **alex.harmaty@gmail.com**
 
