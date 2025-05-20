@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **artificial intelligence!**
 
-- 👯 I’m looking to collaborate on **mapping web apps.**
+- 👯 I’m looking to collaborate on **web apps with mapping tools.**
 
 - 💬 Ask me about **multimodal machine learning**
 
